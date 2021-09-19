@@ -7,5 +7,5 @@
 - &#127875; My birthday is Halloween!
 
 ### Experience
-- &#127891; Seoul National university of science and technology
+- &#127891; Seoul National University of science and technology
 - &#127942; I won the 고카톤 contest as a Pruduct Manager.

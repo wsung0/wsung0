@@ -8,4 +8,4 @@
 
 ### Experience
 - &#127891; Seoul National University of science and technology
-- &#127942; I won the 'Korea University Hackathon' contest as a Pruduct Manager.
+- &#127942; I won the '**Korea University Hackathon**' contest as a Pruduct Manager.

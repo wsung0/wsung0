@@ -3,7 +3,6 @@
 ### Who Am I
 - &#9997; Double major in Safety Engineering & Computer engineering
 - &#127969; My hometown is Yeouido, Seoul in Korea
-- &#128035; I just started studying programming
 - &#127875; My birthday is Halloween!
 
 ### Experience
